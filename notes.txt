@@ -1,0 +1,9 @@
+
+## Tagged dataset
+
+Missing langs in dataset: "Chinese", "Korean"
+
+Invalid match due to not matching name? ("Portugeese", "Sweedish") -> Solved
+
+Super strange language? "Malayalam" (ml), "Kannada" (kn)
+

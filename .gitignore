@@ -1,0 +1,11 @@
+venv/**
+.vscode/**
+
+lingua-poc/.idea
+lingua-poc/target
+fasttext-poc/fastText-0.9.2/**
+fasttext-poc/model/*.bin
+fasttext-poc/node_modules/**
+langdetect-poc/.idea/.gitignore
+langdetect-poc/.idea/misc.xml
+langdetect-poc/.idea/modules.xml
